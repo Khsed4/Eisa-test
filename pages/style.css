@@ -1,12 +1,12 @@
 .container {
     width: 100vh;
     height: 100vh;
-    border: 3px solid lightgray;
+    border: 3px solid blue;
 }
 
 .box {
     width: 10rem;
     height: 10rem;
-    background-color: gold;
+    background-color: red;
     margin: 5px;
 }
